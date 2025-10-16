@@ -1,0 +1,5 @@
+{
+  "name": "Mushroom Identifier AI",
+  "description": "An educational tool that uses AI to identify mushroom species from an uploaded image. It provides information on species, edibility, and a description, along with a strong disclaimer about consumption.",
+  "requestFramePermissions": []
+}
